@@ -339,7 +339,7 @@ gravatar@^1.0.6:
     querystring "0.2.0"
     yargs "^6.0.0"
 
-handlebars@^2.0.0-alpha.4:
+handlebars@^2.0.0, handlebars@^2.0.0-alpha.4:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-2.0.0.tgz#6e9d7f8514a3467fa5e9f82cc158ecfc1d5ac76f"
   dependencies:
@@ -523,6 +523,12 @@ jsonresume-theme-flat@^0.3.7:
   resolved "https://registry.yarnpkg.com/jsonresume-theme-flat/-/jsonresume-theme-flat-0.3.7.tgz#a264f00d6c5850dd7c4b5c15d64204d213a85552"
   dependencies:
     handlebars "^2.0.0-alpha.4"
+
+jsonresume-theme-markdown@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/jsonresume-theme-markdown/-/jsonresume-theme-markdown-1.0.2.tgz#39349abd6fee3f4e253578f5c3d8fbfb730675c1"
+  dependencies:
+    handlebars "^2.0.0"
 
 jsonresume-theme-modern@0.0.18:
   version "0.0.18"
@@ -754,11 +760,7 @@ punycode@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-1.4.1.tgz#c0d5a63b2718800ad8e1eb0fa5269c84dd41845e"
 
-qs@^6.1.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
-
-qs@~6.3.0:
+qs@^6.1.0, qs@~6.3.0:
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.2.tgz#e75bd5f6e268122a2a0e0bda630b2550c166502c"
 

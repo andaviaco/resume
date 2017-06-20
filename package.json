@@ -6,11 +6,13 @@
   "author": "Andrés Ávila <andaviaco@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "jsonresume-theme-markdown": "^1.0.2",
     "jsonresume-theme-short": "^0.1.7",
     "phantomjs-prebuilt": "^2.1.14",
     "resume-cli": "^0.4.19"
   },
   "scripts": {
-    "export": "node_modules/.bin/resume export index.html --theme short"
+    "export": "node_modules/.bin/resume export index.html --theme short",
+    "export:md": "node_modules/.bin/resume export README.html --theme markdown && mv README.html README.md"
   }
 }
