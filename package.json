@@ -12,7 +12,9 @@
     "resume-cli": "^0.4.19"
   },
   "scripts": {
-    "export": "node_modules/.bin/resume export index.html --theme short",
-    "export:md": "node_modules/.bin/resume export README.html --theme markdown && mv README.html README.md"
+    "export": "yarn run export:html && yarn run export:md",
+    "export:html": "node_modules/.bin/resume export index.html --theme short",
+    "export:md": "node_modules/.bin/resume export README.html --theme markdown && mv README.html README.md",
+    "test": "node_modules/.bin/resume test"
   }
 }
