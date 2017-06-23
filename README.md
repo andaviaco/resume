@@ -56,6 +56,7 @@ As a freelance I have had the freedom to experiment with new and exciting techno
 * Developed an AngularJS module for client-side data persistence using localStorage.
 * Was part of a team to build an application for a security system company to manage clients, appointments, payments and purchases using AngularJS, Jade (now Pug) templates, SASS with Bootstrap and Laravel + MySQL for the server.
 * Built small modules for Moodle with PHP, MySQL, Javascript (JQuery) and Bootstrap.
+* Instructor of two AngularJS workshops.
 
 CORB is a software development company that offers high quality software solutions and training. I was invited to collaborate when I was a freshman at the University. Even though I had no experience, my skills proved I had a place in the team.
 
