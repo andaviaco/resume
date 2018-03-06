@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "jsonresume-theme-markdown": "^1.0.2",
+    "jsonresume-theme-paper": "^0.3.5",
     "jsonresume-theme-short": "^0.1.7",
     "phantomjs-prebuilt": "^2.1.14",
     "resume-cli": "^0.4.19"

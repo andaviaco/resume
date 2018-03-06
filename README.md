@@ -84,6 +84,22 @@ CORB is a software development company that offers high quality software solutio
 Blog about movies and TV.
 
 
+## Volunteer
+
+### Volunteer, [Facebook Developer Circle: Guadalajara](https://developers.facebook.com/developercircles)
+##### June 2017 
+
+* Helped to organized and promote every meetup and workshops.
+
+Developer Circles from Facebook is a program designed to create locally organized communities for developers. These communities are meant to educate and provide a forum for discussion and knowledge sharing around topics that are top-of-mind for developers in a particular market.
+
+### Workshop Facilitator, [Campus Party Mexico 2017](https://developers.facebook.com/developercircles)
+#####  - 2017-06-05
+
+* React workshop for beginners at &quot;Pabellon de la UdeG&quot;.
+
+With sixty-six editions worldwide, Campus Party is the largest international experience based on innovation and creativity. It’s the catalyst that brings together courageous businesses, visionary people, close-knit communities, higher education and cutting-edge institutions to make a global community.
+
 
 ## Education
 
