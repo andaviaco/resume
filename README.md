@@ -25,10 +25,21 @@ Software Developer and self-motivated learner. If I find something interesting I
 
 ## Work
 
-### Software Engineer, [Kimanta](https://kimanta.com)
-##### January 2017 
+### Software Engineer, [Baktun](https://www.baktun.net)
+##### July 2017 
 
-* Design and development of a high-performance service designed to be deployed in AWS that stores and process files to create and serve preview images or resized images, and create on-demand images stored temporally. Using PyPy, CherryPy and Redis.
+* Research and development of social media data analysis to find correlations in user relationships applying graph theory algorithms and social network analysis techniques.
+* Participating in the development of a school transport planning web admin. This project required to build, in a few weeks, a stable web admin to handle a large number of resources. We choose React, Loopback as back-end and SQL Server for this project.
+* Refactoring and integration of a reporting module for a dashboard built with AngularJS and Loopback. The legacy code was poorly developed with AngularJS and Express. I was in charge to apply the refactoring to make it clean, simple and scalable.
+* Deployment and maintenance of microservice-driven applications containers with RancherOS.
+* Development of complex MongoDB aggregation queries to gather and shape data from large databases.
+
+Development division specialized in Big Data and dashboards. With experience in development, software integration, and data analysis that unifies the enterprise performance.
+
+### Software Engineer, [Kimanta](https://kimanta.com)
+##### January 2017 - July 2017
+
+* Design and development of a high-performance files service built to be deployed in AWS that stores and process files to create and serve preview images or resized images, and create on-demand images stored temporally. Using PyPy, CherryPy, and Redis.
 * Refactoring and optimization of legacy code in Laravel to apply a modern architecture with Laravel 5.4. Replacing raw DB queries with Eloquent and the Query Builder. Implementing Interfaces, Traits, Contracts, Facades, Scopes, Mutators, Validators. Setup Sentry as error reporter.
 * Refactoring and optimization of legacy AngularJS code to implement a component-based architecture. Implementing Angular components instead of directives and ReactJS for special features.
 
@@ -37,10 +48,10 @@ A growing real-estate professionals network.
 ### , Freelance
 ##### January 2017 
 
-* Built a complete website that interacts with an external API. I used Python in the server, Preact for dynamic components in the frontend; SCSS and Flexbox techniques for the design.
-* Built a fast and simple webapp for the professors of the Electronics Department at CUCEI. For a fast development I chose Flask in the server in order to achieve the release in a short deadline, Preact with Webpack and Bulma as CSS framework. The database was seeded from an Excel file with a script that I wrote to parse, load and save the data with SQLAlchemy.
+* Built a complete website that interacts with an external API. I used Python on the server, Preact for dynamic components in the frontend; SCSS and Flexbox techniques for the design.
+* Built a fast and simple webapp for the professors of the Electronics Department at CUCEI. For a fast development, I chose Flask on the server in order to achieve the release in a short deadline, Preact with Webpack and Bulma as CSS framework. The database was seeded from an Excel file with a script that I wrote to parse, load and save the data with SQLAlchemy.
 * Implementation, personalization and deployment of a Ghost blog.
-* Deployments in AWS, Heroku and Digital Ocean.
+* Deployments in AWS, Heroku, and Digital Ocean.
 * Implementation of ReactJS inside a Wordpress app, with Redux to consume an API, React Router to handle the views with tabs and React Intl with a custom configuration for the translations.
 
 As a freelance I have had the freedom to experiment with new and exciting technologies in both, Frontend and Backend.
@@ -48,8 +59,8 @@ As a freelance I have had the freedom to experiment with new and exciting techno
 ### Software Engineer, [CORB Consultoría Informática](http://corb.mx)
 ##### August 2014 - December 2016
 
-* Built an isomorphic/universal application using mainly ExpressJS, ReactJS and RethinkDB with an external API connection. We used Redux to manage data flow, SASS for styles and Webpack as module bundler.
-* Worked with a team under a SCRUM methodology to develop a big website for real-estate professionals with AngularJS, Laravel, MySQL, SASS and other tecnologies.
+* Built an isomorphic/universal application using mainly ExpressJS, ReactJS, and RethinkDB with an external API connection. We used Redux to manage data flow, SASS for styles and Webpack as module bundler.
+* Worked with a team under a SCRUM methodology to develop a big website for real-estate professionals with AngularJS, Laravel, MySQL, SASS and other technologies.
 * Worked on a high traffic application to create and vote stories with social networks integration using ReactJS, BackboneJS, Browserify and Gulp for the front-end, Lumen as back-end framework and Gulp for task automatization. React was in its firsts steps and we had to create components for sliders and an infinite scroll, both components loaded the data dynamically.
 * Built a high-performance e-commerce for an auto parts seller, building a server with Flask + MongoDB and ReactJS rendering with Bootstrap in a PHP client.
 * Built a simple website that connects with an API previously developed. We only use Flask, SASS with Flexbox styles and a bit of javascript.
@@ -77,7 +88,7 @@ Blog about movies and TV.
 ## Education
 
 ### University of Guadalajara - Bachelor in Computer Science
-##### 2013 - June 2018
+##### August 2013 - June 2019
 
 
 
@@ -86,10 +97,10 @@ Blog about movies and TV.
 ## Skills
 
 * Advanced in Front-end (ReactJS, Preact, Redux, AngularJS, Webpack, ES6, BackboneJS, Gulp, SASS, HTML)
-* Advanced in Back-end (NodeJS, Django, Flask, Express, Laravel, CherryPy, PHP)
+* Advanced in Back-end (NodeJS, Django, Flask, Express, Loopback, Laravel, CherryPy, PHP)
 * Intermediate in Databases (MongoDB, MariaDB, Redis, MySQL, PostgreSQL)
 * Advanced in Scripting (Python 2.x, Python 3.x, Bash)
-* Beginner in Mobile (React Native, Ionic Framework)
+* Beginner in Mobile (React Native)
 * Intermediate in VCS (GIT)
 * Intermediate in Methodologies (SCRUM)
 * Intermediate in More (Vagrant, Nginx, Gunicorn, Apache)
