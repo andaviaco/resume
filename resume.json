@@ -135,12 +135,13 @@
       "name": "Front-end",
       "level": "Advanced",
       "keywords": [
-        "ReactJS",
+        "React",
         "Preact",
         "Redux",
-        "AngularJS",
+        "Vue.js",
         "Webpack",
         "ES6",
+        "AngularJS",
         "BackboneJS",
         "Gulp",
         "SASS",
@@ -166,8 +167,9 @@
         "level": "Intermediate",
         "keywords": [
             "MongoDB",
-            "MariaDB",
+            "Neo4j",
             "Redis",
+            "MariaDB",
             "MySQL",
             "PostgreSQL"
         ]
@@ -209,7 +211,8 @@
         "Vagrant",
         "Nginx",
         "Gunicorn",
-        "Apache"
+        "Apache",
+        "NetworkX"
       ]
     }
   ],

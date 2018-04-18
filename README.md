@@ -112,14 +112,14 @@ With sixty-six editions worldwide, Campus Party is the largest international exp
 
 ## Skills
 
-* Advanced in Front-end (ReactJS, Preact, Redux, AngularJS, Webpack, ES6, BackboneJS, Gulp, SASS, HTML)
+* Advanced in Front-end (React, Preact, Redux, Vue.js, Webpack, ES6, AngularJS, BackboneJS, Gulp, SASS, HTML)
 * Advanced in Back-end (NodeJS, Django, Flask, Express, Loopback, Laravel, CherryPy, PHP)
-* Intermediate in Databases (MongoDB, MariaDB, Redis, MySQL, PostgreSQL)
+* Intermediate in Databases (MongoDB, Neo4j, Redis, MariaDB, MySQL, PostgreSQL)
 * Advanced in Scripting (Python 2.x, Python 3.x, Bash)
 * Beginner in Mobile (React Native)
 * Intermediate in VCS (GIT)
 * Intermediate in Methodologies (SCRUM)
-* Intermediate in More (Vagrant, Nginx, Gunicorn, Apache)
+* Intermediate in More (Vagrant, Nginx, Gunicorn, Apache, NetworkX)
 
 ## Languages
 
