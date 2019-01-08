@@ -7,8 +7,6 @@
 
 Email: [andaviaco@gmail.com](mailto:andaviaco@gmail.com)  
 
-Phone: (+52) 1 331 766 0221  
-
 City: Guadalajara  
 
 Country: MX  
