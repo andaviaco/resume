@@ -7,6 +7,8 @@
 
 Email: [andaviaco@gmail.com](mailto:andaviaco@gmail.com)  
 
+
+
 City: Guadalajara  
 
 Country: MX  
@@ -23,8 +25,23 @@ Software Developer and self-motivated learner. If I find something interesting I
 
 ## Work
 
+### Lead Software Engineer, [EasyLex](http://www.easylex.com/)
+##### Jan 2019 
+
+
+Startup Factory that builds successful startups.
+
+### Software Engineer, [Agave Lab](http://www.agavelab.com/)
+##### May 2018 
+
+* Contribution to base code distributed in a microservice structure.
+* Fullstack development with a wide set of technologies in different projects.
+* AWS and Azure for cloud tools, deployments and CI with Travis.
+
+Startup Factory that builds successful startups.
+
 ### Software Engineer, [Baktun](https://www.baktun.net)
-##### July 2017 
+##### July 2017 - April 2018
 
 * Research and development of social media data analysis to find correlations in user relationships applying graph theory algorithms and social network analysis techniques.
 * Participating in the development of a school transport planning web admin. This project required to build, in a few weeks, a stable web admin to handle a large number of resources. We choose React, Loopback as back-end and SQL Server for this project.
@@ -69,18 +86,6 @@ As a freelance I have had the freedom to experiment with new and exciting techno
 
 CORB is a software development company that offers high quality software solutions and training. I was invited to collaborate when I was a freshman at the University. Even though I had no experience, my skills proved I had a place in the team.
 
-### Web Developer, [Dgogo Studios](http://dgogostudios.com)
-##### June 2013 - July 2013
-
-* Built from scratch.
-* First personal project for learning web development.
-* Learned Django, Javascript, HTML and CSS
-* Learned about UI and UX.
-* First approach to Responsive Desing.
-* Learned about servers and deployment of Python applications.
-
-Blog about movies and TV.
-
 
 ## Volunteer
 
@@ -113,11 +118,12 @@ With sixty-six editions worldwide, Campus Party is the largest international exp
 * Advanced in Front-end (React, Preact, Redux, Vue.js, Webpack, ES6, AngularJS, BackboneJS, Gulp, SASS, HTML)
 * Advanced in Back-end (NodeJS, Django, Flask, Express, Loopback, Laravel, CherryPy, PHP)
 * Intermediate in Databases (MongoDB, Neo4j, Redis, MariaDB, MySQL, PostgreSQL)
+* Intermediate in APIs (REST, GraphQL)
 * Advanced in Scripting (Python 2.x, Python 3.x, Bash)
 * Beginner in Mobile (React Native)
 * Intermediate in VCS (GIT)
 * Intermediate in Methodologies (SCRUM)
-* Intermediate in More (Vagrant, Nginx, Gunicorn, Apache, NetworkX)
+* Intermediate in More (GRPC, Vagrant, Nginx, Gunicorn, Apache, NetworkX)
 
 ## Languages
 

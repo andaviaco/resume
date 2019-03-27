@@ -4,7 +4,6 @@
     "label": "Software Engineer",
     "picture": "",
     "email": "andaviaco@gmail.com",
-    "phone": "(+52) 1 331 766 0221",
     "summary": "Software Developer and self-motivated learner. If I find something interesting I try to learn as much as possible to use it in real-world problems for work, school or personal projects. I like contributing giving my opinion and point of view and have no problem sharing my knowledge, especially with my coworkers. When facing problems, I create clean, simple and practical solutions with the best practices following agile methodologies.",
     "location": {
         "city": "Guadalajara",
@@ -26,31 +25,53 @@
   },
   "work": [
     {
-        "company": "Baktun",
-        "position": "Software Engineer",
-        "website": "https://www.baktun.net",
-        "startDate": "July 2017",
-        "summary": "Development division specialized in Big Data and dashboards. With experience in development, software integration, and data analysis that unifies the enterprise performance.",
-        "highlights": [
-          "Research and development of social media data analysis to find correlations in user relationships applying graph theory algorithms and social network analysis techniques.",
-          "Participating in the development of a school transport planning web admin. This project required to build, in a few weeks, a stable web admin to handle a large number of resources. We choose React, Loopback as back-end and SQL Server for this project.",
-          "Refactoring and integration of a reporting module for a dashboard built with AngularJS and Loopback. The legacy code was poorly developed with AngularJS and Express. I was in charge to apply the refactoring to make it clean, simple and scalable.",
-          "Deployment and maintenance of microservice-driven applications containers with RancherOS.",
-          "Development of complex MongoDB aggregation queries to gather and shape data from large databases."
-        ]
+      "company": "EasyLex",
+      "position": "Lead Software Engineer",
+      "website": "http://www.easylex.com/",
+      "startDate": "Jan 2019",
+      "summary": "Startup Factory that builds successful startups.",
+      "highlights": [
+      ]
     },
     {
-        "company": "Kimanta",
-        "position": "Software Engineer",
-        "website": "https://kimanta.com",
-        "startDate": "January 2017",
-        "endDate": "July 2017",
-        "summary": "A growing real-estate professionals network.",
-        "highlights": [
-          "Design and development of a high-performance files service built to be deployed in AWS that stores and process files to create and serve preview images or resized images, and create on-demand images stored temporally. Using PyPy, CherryPy, and Redis.",
-          "Refactoring and optimization of legacy code in Laravel to apply a modern architecture with Laravel 5.4. Replacing raw DB queries with Eloquent and the Query Builder. Implementing Interfaces, Traits, Contracts, Facades, Scopes, Mutators, Validators. Setup Sentry as error reporter.",
-          "Refactoring and optimization of legacy AngularJS code to implement a component-based architecture. Implementing Angular components instead of directives and ReactJS for special features."
-        ]
+      "company": "Agave Lab",
+      "position": "Software Engineer",
+      "website": "http://www.agavelab.com/",
+      "startDate": "May 2018",
+      "summary": "Startup Factory that builds successful startups.",
+      "highlights": [
+        "Contribution to base code distributed in a microservice structure.",
+        "Fullstack development with a wide set of technologies in different projects.",
+        "AWS and Azure for cloud tools, deployments and CI with Travis."
+      ]
+    },
+    {
+      "company": "Baktun",
+      "position": "Software Engineer",
+      "website": "https://www.baktun.net",
+      "startDate": "July 2017",
+      "endDate": "April 2018",
+      "summary": "Development division specialized in Big Data and dashboards. With experience in development, software integration, and data analysis that unifies the enterprise performance.",
+      "highlights": [
+        "Research and development of social media data analysis to find correlations in user relationships applying graph theory algorithms and social network analysis techniques.",
+        "Participating in the development of a school transport planning web admin. This project required to build, in a few weeks, a stable web admin to handle a large number of resources. We choose React, Loopback as back-end and SQL Server for this project.",
+        "Refactoring and integration of a reporting module for a dashboard built with AngularJS and Loopback. The legacy code was poorly developed with AngularJS and Express. I was in charge to apply the refactoring to make it clean, simple and scalable.",
+        "Deployment and maintenance of microservice-driven applications containers with RancherOS.",
+        "Development of complex MongoDB aggregation queries to gather and shape data from large databases."
+      ]
+    },
+    {
+      "company": "Kimanta",
+      "position": "Software Engineer",
+      "website": "https://kimanta.com",
+      "startDate": "January 2017",
+      "endDate": "July 2017",
+      "summary": "A growing real-estate professionals network.",
+      "highlights": [
+        "Design and development of a high-performance files service built to be deployed in AWS that stores and process files to create and serve preview images or resized images, and create on-demand images stored temporally. Using PyPy, CherryPy, and Redis.",
+        "Refactoring and optimization of legacy code in Laravel to apply a modern architecture with Laravel 5.4. Replacing raw DB queries with Eloquent and the Query Builder. Implementing Interfaces, Traits, Contracts, Facades, Scopes, Mutators, Validators. Setup Sentry as error reporter.",
+        "Refactoring and optimization of legacy AngularJS code to implement a component-based architecture. Implementing Angular components instead of directives and ReactJS for special features."
+      ]
     },
     {
       "company": "Freelance",
@@ -81,22 +102,6 @@
         "Was part of a team to build an application for a security system company to manage clients, appointments, payments and purchases using AngularJS, Jade (now Pug) templates, SASS with Bootstrap and Laravel + MySQL for the server.",
         "Built small modules for Moodle with PHP, MySQL, Javascript (JQuery) and Bootstrap.",
         "Instructor of two AngularJS workshops."
-      ]
-    },
-    {
-      "company": "Dgogo Studios",
-      "position": "Web Developer",
-      "website": "http://dgogostudios.com",
-      "startDate": "June 2013",
-      "endDate": "July 2013",
-      "summary": "Blog about movies and TV.",
-      "highlights": [
-        "Built from scratch.",
-        "First personal project for learning web development.",
-        "Learned Django, Javascript, HTML and CSS",
-        "Learned about UI and UX.",
-        "First approach to Responsive Desing.",
-        "Learned about servers and deployment of Python applications."
       ]
     }
   ],
@@ -175,6 +180,14 @@
         ]
     },
     {
+      "name": "APIs",
+      "level": "Intermediate",
+      "keywords": [
+        "REST",
+        "GraphQL"
+      ]
+    },
+    {
       "name": "Scripting",
       "level": "Advanced",
       "keywords": [
@@ -208,6 +221,7 @@
       "name": "More",
       "level": "Intermediate",
       "keywords": [
+        "GRPC",
         "Vagrant",
         "Nginx",
         "Gunicorn",
