@@ -29,7 +29,7 @@ Software Developer and self-motivated learner. If I find something interesting I
 ##### Jan 2019 
 
 
-Startup Factory that builds successful startups.
+EasyLex is a platform that helps startups create and manage the legal agreements and paperwork they need.
 
 ### Software Engineer, [Agave Lab](http://www.agavelab.com/)
 ##### May 2018 
